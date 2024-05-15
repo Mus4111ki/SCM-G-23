@@ -1,8 +1,8 @@
 # SCM_TEAM-21
 # Made By 
-# 1. Naveen Kumar 2310990582(Developer)
-# 2. Navsirat singh 2310990583(Manager)
-# 3. Nayan Kochar 2310990584(Tester)
+# 1. Narisha siwach 2310992078(Developer)
+# 2. muskan singh 2310992074(Manager)
+# 3. hasrat bhardwaj 2310992013(Tester)
 </br>
 
 # Hangman-Python
